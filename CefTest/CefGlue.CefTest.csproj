@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="Xilium.CefGlue, Version=3.0.0.0, Culture=neutral, PublicKeyToken=6235298024de30d5, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>D:\Git\CefTest\Resources\Xilium.CefGlue.dll</HintPath>
+      <HintPath>..\Resources\Xilium.CefGlue.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
